@@ -26,3 +26,5 @@ To view and test this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/login-page-project.git
+![Login Page Screenshot](img/example1.png)
+![Responsive Login Page Screenshot](img/example2.png)
